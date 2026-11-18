@@ -1,2 +1,2 @@
 # Towers_vs_villians
-Edit this later
+Simple aand funt tower defense game, made with JS on GDevelop 5
